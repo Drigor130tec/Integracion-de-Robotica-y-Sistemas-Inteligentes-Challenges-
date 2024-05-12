@@ -1,4 +1,4 @@
-Project adding the immplementation of the Puzzlebot as the real system allowing us to compare the position difference between a real and an ideal model.
+Project adding the implementation of the Puzzlebot as the real system allowing us to compare the position difference between a real and an ideal model.
 
 Code line for RVIZ simulation using only the ideal model:
 roslaunch localisation puzzlebot_rviz.launch
